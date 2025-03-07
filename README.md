@@ -1,4 +1,4 @@
-# 2팀
+# 공부의 숲
 
 [📄 팀 협업 문서](https://arrow-season-125.notion.site/ec0da2984aee44b29e332e18b85d12db?v=c951e5190e594c56aae608fd15b9420b&pvs=4)
 
